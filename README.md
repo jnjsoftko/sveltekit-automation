@@ -1,2 +1,3 @@
-# sveltekit-automation
-playground for automation(web scraper, autohotkey, ...) with sveltekit
+# sveltekit-database
+
+playground for ${description} with sveltekit

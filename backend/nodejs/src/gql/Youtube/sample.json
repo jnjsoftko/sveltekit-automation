@@ -1,0 +1,66 @@
+{
+    "subscription": {
+      "kind": "youtube#subscription",
+      "etag": "ojiGu9EaWPvz5EUSoeM6KoOcJa0",
+      "id": "d6s6kWAXGiyXx0QQlGqfg6Sh8U3AQrrBQjtxDBl1Bgw",
+      "snippet": {
+        "publishedAt": "2023-08-08T10:13:55.908651Z",
+        "title": "Madia Designer",
+        "description": "Hello, designer couple of words children. In current practice and professional skills and as designer uiux I'm going to tell you.",
+        "resourceId": { "kind": "youtube#channel", "channelId": "UCxRnfrmJAkRLarzeBJETB5g" },
+        "channelId": "UCYocH5wS69RRy_IHIBJIDGw",
+        "thumbnails": {
+          "default": { "url": "https://yt3.ggpht.com/ogu7WJp5I60n6vBkGkqo9HTOXEEJtoPu0hcuyFijBARr689LuqmLyI2Sb1ohm0HgPE0HSjVlNsc=s88-c-k-c0x00ffffff-no-rj" },
+          "medium": { "url": "https://yt3.ggpht.com/ogu7WJp5I60n6vBkGkqo9HTOXEEJtoPu0hcuyFijBARr689LuqmLyI2Sb1ohm0HgPE0HSjVlNsc=s240-c-k-c0x00ffffff-no-rj" },
+          "high": { "url": "https://yt3.ggpht.com/ogu7WJp5I60n6vBkGkqo9HTOXEEJtoPu0hcuyFijBARr689LuqmLyI2Sb1ohm0HgPE0HSjVlNsc=s800-c-k-c0x00ffffff-no-rj" }
+        }
+      }
+    },
+    "playlist": {
+      "kind": "youtube#playlist",
+      "etag": "fYqcUw6kyLmvyb6XbDH9eeJXHTU",
+      "id": "PLnAbm0LaZMdM8Ux6r9gqWD-DRnCL-7Zbl",
+      "snippet": {
+        "publishedAt": "2024-03-31T11:51:25Z",
+        "channelId": "UCKvaj8HAgWPtELuwbWpFZUQ",
+        "title": "MySQL 입문",
+        "description": "",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/kbrS58fNCVc/default.jpg", "width": 120, "height": 90 },
+          "medium": { "url": "https://i.ytimg.com/vi/kbrS58fNCVc/mqdefault.jpg", "width": 320, "height": 180 },
+          "high": { "url": "https://i.ytimg.com/vi/kbrS58fNCVc/hqdefault.jpg", "width": 480, "height": 360 },
+          "standard": { "url": "https://i.ytimg.com/vi/kbrS58fNCVc/sddefault.jpg", "width": 640, "height": 480 },
+          "maxres": { "url": "https://i.ytimg.com/vi/kbrS58fNCVc/maxresdefault.jpg", "width": 1280, "height": 720 }
+        },
+        "channelTitle": "darkgreenchloeJJ",
+        "localized": { "title": "MySQL 입문", "description": "" }
+      },
+      "contentDetails": { "itemCount": 1 }
+    },
+    "playlistItem": {
+      "kind": "youtube#playlistItem",
+      "etag": "8cLe6tbA9XKRZu6JHFMr1x6osl8",
+      "id": "UExuQWJtMExhWk1kTWhnNXlDejMzUmlWdkVNOHBBTWI1Yi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-12-11T11:41:24Z",
+        "channelId": "UCKvaj8HAgWPtELuwbWpFZUQ",
+        "title": "[데이터분석 필수] Streamlit 대시보드 만들기, Streamlit 소개",
+        "description": "주요 내용 : Python Streamlit 대시보드 - Streamlit 소개\n- 소스코드 및 자료는 인프런에서 제공합니다.\n\n[읽기 자료]\n- Turn Python Scripts into Beautiful ML Tools : https://shorturl.at/LPSZ3\n\n[강의]\n- 인프런 : https://inf.run/YPniH\n\n★ Streamlit으로 프로젝트 한방에 끝내기 with 파이썬 개정판 (2024, Sara & Evan)\n\n[책 판매]\n- 부크크 (종이책) : https://bookk.co.kr/bookStore/6586331b003feb8d1d053378\n- 부크크 (PDF) : https://bookk.co.kr/bookStore/658633d9003feb8d1d05406a\n- 교보문고 : https://product.kyobobook.co.kr/detail/S000212384559\n- 예스 24 : https://www.yes24.com/Product/Goods/124625310\n- 알라딘 : http://aladin.kr/p/UQUv5\n- 책소개 : https://dschloe.github.io/ds-projects/2024/01/book_intro/\n\n#python #streamlit #국비교육 #파이썬기초 #대시보드 #판다스 #pandas #빅데이터분석기사 #데이터시각화 #datavisualization #streamlit #dashboard",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/k_p5h4Tf0ZM/default.jpg", "width": 120, "height": 90 },
+          "medium": { "url": "https://i.ytimg.com/vi/k_p5h4Tf0ZM/mqdefault.jpg", "width": 320, "height": 180 },
+          "high": { "url": "https://i.ytimg.com/vi/k_p5h4Tf0ZM/hqdefault.jpg", "width": 480, "height": 360 },
+          "standard": { "url": "https://i.ytimg.com/vi/k_p5h4Tf0ZM/sddefault.jpg", "width": 640, "height": 480 },
+          "maxres": { "url": "https://i.ytimg.com/vi/k_p5h4Tf0ZM/maxresdefault.jpg", "width": 1280, "height": 720 }
+        },
+        "channelTitle": "darkgreenchloeJJ",
+        "playlistId": "PLnAbm0LaZMdMhg5yCz33RiVvEM8pAMb5b",
+        "position": 0,
+        "resourceId": { "kind": "youtube#video", "videoId": "k_p5h4Tf0ZM" },
+        "videoOwnerChannelTitle": "darkgreenchloeJJ",
+        "videoOwnerChannelId": "UCKvaj8HAgWPtELuwbWpFZUQ"
+      },
+      "contentDetails": { "videoId": "k_p5h4Tf0ZM", "videoPublishedAt": "2023-12-11T11:59:21Z" }
+    }
+  }
+  

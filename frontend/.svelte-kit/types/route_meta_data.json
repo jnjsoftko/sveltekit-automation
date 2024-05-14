@@ -1,0 +1,17 @@
+{
+	"/": [],
+	"/(API)/database/file": [
+		"src/routes/(API)/database/file/+server.ts"
+	],
+	"/(API)/database/pocketbase/[collection]": [
+		"src/routes/(API)/database/pocketbase/[collection]/+server.ts"
+	],
+	"/(API)/database/sheet/[user]/[spreadsheetId]/[sheetName]": [
+		"src/routes/(API)/database/sheet/[user]/[spreadsheetId]/[sheetName]/+server.ts"
+	],
+	"/(API)/database/supabase/[collection]": [
+		"src/routes/(API)/database/supabase/[collection]/+server.ts"
+	],
+	"/(test)/test_env": [],
+	"/(REST)/users": []
+}
