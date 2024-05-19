@@ -9,9 +9,12 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+*.mp4
 
+__pycache__/
 
 _backups/
 _drafts/
 _docs/
 _data/
+download/

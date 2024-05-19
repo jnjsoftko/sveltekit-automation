@@ -1,15 +1,19 @@
 {
   "dependencies": {
     "@google-cloud/local-auth": "^2.1.0",
+    "@grpc/grpc-js": "^1.10.7",
+    "@grpc/proto-loader": "^0.7.13",
     "@notionhq/client": "^2.2.15",
     "@supabase/supabase-js": "^2.43.1",
     "axios": "^1.6.8",
     "dotenv": "^16.4.5",
+    "fluent-ffmpeg": "^2.1.2",
     "googleapis": "^105.0.0",
     "jnj-lib-base": "^0.0.28",
     "jnj-lib-doc": "^0.0.5",
-    "jnj-lib-google": "^0.0.10",
-    "pocketbase": "^0.21.2"
+    "pocketbase": "^0.21.2",
+    "youtube-captions-scraper": "^2.0.3",
+    "ytdl-core": "^4.11.5"
   },
   "name": "sveltekit-automation",
   "version": "0.0.1",

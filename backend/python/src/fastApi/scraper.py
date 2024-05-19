@@ -1,3 +1,7 @@
+# conda activate automation
+# python scraper.py
+# http://127.0.0.1:8899/requests?url=https://example.com
+
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 import requests

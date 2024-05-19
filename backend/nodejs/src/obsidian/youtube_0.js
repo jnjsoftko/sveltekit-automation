@@ -24,7 +24,7 @@ const propertyKeys = [
 const youtube = new Youtube(GOOGLE_USER_NAME);
 await youtube.init();
 
-const stripThumnailUrl = (objs) => {
+const stripThumbnailUrl = (objs) => {
   /*
     "thumbnail": "=image(\"https://i.ytimg.com/vi/k_p5h4Tf0ZM/hqdefault.jpg\")",
     =>
@@ -54,7 +54,7 @@ const getProperties = async ({ playlistId, defaults }) => {
     maps[key] = key;
   }
 
-  let properties = stripThumnailUrl(videos).map((video) => {
+  let properties = stripThumbnailUrl(videos).map((video) => {
     return updateKeys(video, maps, defaults);
   });
 
@@ -187,13 +187,13 @@ const subFolder = `jnj-soft/PLAYGROUND/ai/langchain/${playlistName}`;
 const localPlaylistFolder = "C:/Users/Jungsam/Videos/youtube/IT/판다스 스튜디오/LangChain   랭체인 응용하기";
 const playlistId = "PL5bzmUGXvZNRPQi4PAGFkA2inN-tRF4Mi";
 const defaults = {
-  playlist_url: `https://www.youtube.com/playlist?list=${playlistId}`,
-  channel_name: "판다스 스튜디오", // 변수
-  channel_url: "@pandas-data-studio", // 변수
+  // playlist_url: `https://www.youtube.com/playlist?list=${playlistId}`,
+  // channel_name: "판다스 스튜디오", // 변수
+  // channel_url: "@pandas-data-studio", // 변수
   categories: "\n   - AI\n   - python",
   tags: "\n   - AI\n   - python\n   - LangChain",
-  related_notes: "[[00_LangChain 튜토리얼]]",
-  view_dates: "\n   - 2024-05-13",
+  // related_notes: "[[00_LangChain 튜토리얼]]",
+  // view_dates: "\n   - 2024-05-13",
   likeability: "3",
   difficulty: "2",
 };
